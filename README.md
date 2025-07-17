@@ -33,3 +33,26 @@ The notebook includes:
 - 🔁 Computes correlation analysis
 
 ---
+
+## 📂 Project Structure
+
+```bash
+Covid-19_analysis/
+├── Covid-19_analysis.ipynb   # Main Jupyter notebook
+├── README.md                 # Project documentation
+└── data/                     # CSV files used
+```
+
+---
+
+## 🧾 Conclusion
+
+The notebook ends with key takeaways from the visual and statistical analysis. Use this framework to expand with new datasets, predictive modeling, or dashboards.
+
+---
+
+## 📄 License
+
+This project is open-source and free to use under the MIT license.
+
+---
