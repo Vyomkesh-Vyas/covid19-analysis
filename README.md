@@ -1,4 +1,3 @@
-# covid19-analysis
 # 🦠 Covid-19 Analysis
 
 This project explores COVID-19 data using Python and popular data analysis libraries. The goal is to uncover patterns and trends through visualizations, aggregations, and statistical correlation.
